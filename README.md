@@ -1,5 +1,9 @@
 ## Oi, eu sou a Elizadora Mendonça
 
+## Sobre mim
+Estou cursando atualmente Ciência da Computação na Universidade Federal do Ceará. Meus projetos envolvem princialmente projetos web com ReactJS e NodeJS. Atualmente estou buscando aprimorar cada vez mais meus conhecimentos sobre as tecnologias utilizadas no desenvolvimento web.
+
+
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; flex-wrap: wrap">
 
  <img height ="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=elizadora&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
