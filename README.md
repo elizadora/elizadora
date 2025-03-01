@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou a Elizandra Mendonça
+## 👋 Olá, eu sou a Elizadora Mendonça
 
 ### Sobre mim
 Sou graduanda em **Ciência da Computação** com foco no desenvolvimento de aplicações **web** e **desktop**. Durante a graduação, tenho adquirido conhecimentos em linguagens de programação como **Java** e **C**, além de explorar frameworks e tecnologias modernas, como **React** e **Node.js**. Possuo familiaridade com bancos de dados relacionais, como **MySQL** e **PostgreSQL**, e práticas de versionamento de código utilizando **Git**. Tenho grande interesse em aprofundar meus conhecimentos em desenvolvimento de software, buscando criar soluções **eficientes** e **inovadoras**. Atualmente, estou em busca de oportunidades para aplicar e expandir minhas habilidades em projetos práticos, contribuindo para o crescimento pessoal e profissional.
@@ -21,8 +21,6 @@ Sou graduanda em **Ciência da Computação** com foco no desenvolvimento de apl
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
 
