@@ -6,8 +6,8 @@ Sou estudante de Ciência da Computação, com foco em desenvolvimento de aplica
 ### 📊 Estatísticas do GitHub
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; flex-wrap: wrap">
-  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=elizadora&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=elizadora&layout=compact&show_icons=true&theme=react&langs_count=7"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=elizadora&theme=algolia&show_icons=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizadora&layout=compact&theme=algolia"/>
 </div>
 
 ### 📚 Linguagens
