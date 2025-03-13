@@ -7,7 +7,7 @@ Sou estudante de Ciência da Computação, com foco em desenvolvimento de aplica
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; flex-wrap: wrap">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=elizadora&theme=algolia&show_icons=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizadora&layout=compact&theme=algolia"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizadora&size_weight=0.5&count_weight=0.5&layout=compact&theme=algolia"/>
 </div>
 
 ### 📚 Linguagens
