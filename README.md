@@ -4,10 +4,11 @@
 Sou estudante de Ciência da Computação, com foco em desenvolvimento de aplicações web e desktop. Tenho experiência em linguagens como Java e C, além de familiaridade com frameworks modernos como React e Node.js. Estou sempre em busca de oportunidades para aplicar e expandir meus conhecimentos em projetos práticos.
 
 ### 📊 Estatísticas do GitHub
-<div style="display: flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=elizadora&show_icons=true&theme=algolia" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elizadora&theme=algolia" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elizadora&show_icons=true&theme=algolia" width="42.5%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elizadora&theme=algolia" width="45%" />
+</p>
+
 
 ### 📚 Linguagens
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: start; flex-wrap: wrap; margin-top: 20px">
