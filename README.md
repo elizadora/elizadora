@@ -5,8 +5,8 @@ Sou estudante de Ciência da Computação, com foco em desenvolvimento de aplica
 
 ### 📊 Estatísticas do GitHub
 <p align="left" style="display: flex; flex-direction: row; align-items: center; justify-content: start; flex-wrap: wrap">
-  <img src="https://github-readme-stats.vercel.app/api?username=elizadora&show_icons=true&theme=algolia"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elizadora&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elizadora&show_icons=true&theme=algolia" width="42.5%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elizadora&theme=algolia" width="45%" />
 </p>
 
 
