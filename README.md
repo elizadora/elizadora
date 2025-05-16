@@ -4,14 +4,13 @@
 Sou estudante de Ciência da Computação, com foco em desenvolvimento de aplicações web e desktop. Tenho experiência em linguagens como Java e C, além de familiaridade com frameworks modernos como React e Node.js. Estou sempre em busca de oportunidades para aplicar e expandir meus conhecimentos em projetos práticos.
 
 ### 📊 Estatísticas do GitHub
-
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; flex-wrap: wrap">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=elizadora&theme=algolia&show_icons=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizadora&size_weight=0.5&count_weight=0.5&layout=compact&theme=algolia"/>
+<div>
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=elizadora&show_icons=true&theme=algolia" />
+  <img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=elizadora&theme=algolia" />
 </div>
 
 ### 📚 Linguagens
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: start; flex-wrap: wrap">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: start; flex-wrap: wrap; margin-top: 20px">
   
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -38,4 +37,11 @@ Sou estudante de Ciência da Computação, com foco em desenvolvimento de aplica
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
   
+</div>
+
+---
+
+### 📈 Contador de Visitas
+<div align="center">
+  <img src="https://profile-counter.glitch.me/elizadora/count.svg?"  />
 </div>
