@@ -46,4 +46,6 @@ Sou estudante de Ciência da Computação, com foco em desenvolvimento de aplica
 
 
 ### 🔥 Sequência de commits
-<img src="https://streak-stats.demolab.com?user=elizadora&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elizadora&theme=ayu-mirage" alt="streak stats" />
+</div>
