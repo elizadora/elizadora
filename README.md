@@ -1,13 +1,9 @@
 ## 👋 Olá, eu sou a Elizadora Mendonça
 
+![](https://komarev.com/ghpvc/?username=elizadora)
+
 ### Sobre mim
 Sou estudante de Ciência da Computação, com foco em desenvolvimento de aplicações web e desktop. Tenho experiência em linguagens como Java e C, além de familiaridade com frameworks modernos como React e Node.js. Estou sempre em busca de oportunidades para aplicar e expandir meus conhecimentos em projetos práticos.
-
-### 📊 Estatísticas do GitHub
-<p align="left" style="display: flex; flex-direction: row; align-items: center; justify-content: start; flex-wrap: wrap">
-  <img src="https://github-readme-stats.vercel.app/api?username=elizadora&show_icons=true&theme=algolia" width="42.5%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elizadora&theme=algolia" width="45%" />
-</p>
 
 
 ### 📚 Linguagens
@@ -22,7 +18,6 @@ Sou estudante de Ciência da Computação, com foco em desenvolvimento de aplica
   
 </div>
 
----
 
 ### 🛠️ Tecnologias e Ferramentas
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: start; flex-wrap: wrap">
@@ -34,15 +29,21 @@ Sou estudante de Ciência da Computação, com foco em desenvolvimento de aplica
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
   
 </div>
+ 
 
----
-
-### 📈 Contador de Visitas
+### 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://profile-counter.glitch.me/elizadora/count.svg?"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=elizadora&show_icons=true&theme=ayu-mirage" height="150" alt="stats graph" />
+    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=elizadora&layout=compact&langs_count=8&theme=ayu-mirage" />
+    
 </div>
+
+
+### 🔥 Sequência de commits
+<img src="https://streak-stats.demolab.com?user=elizadora&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5" height="150" alt="streak graph" />
